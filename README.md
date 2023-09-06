@@ -12,8 +12,15 @@
 ![메인페이지](https://github.com/jkhwang150/useChatGPT/assets/75780140/e18d5f36-7b24-4282-ad8e-7ebe3cd8c3b0)
 ![챗페이지](https://github.com/jkhwang150/useChatGPT/assets/75780140/4eb7b6c2-e9f1-4877-9f3c-304c25da2c97)
 
+### 2) API 연동 및 결과 표시
+![api 연동](https://github.com/jkhwang150/useChatGPT/assets/75780140/df9beb97-8c67-47aa-8c32-8d39fb8ee52a)
+![api 연동2](https://github.com/jkhwang150/useChatGPT/assets/75780140/08987767-9f96-4870-8a88-b282bebfbe9b)
 
-# 3. 기대효과
+# 4. 배포
+![배포 2](https://github.com/jkhwang150/useChatGPT/assets/75780140/828de000-0bb1-40dc-bcc7-2525d72164cd)
+![배포](https://github.com/jkhwang150/useChatGPT/assets/75780140/57063c88-ad49-4230-a99f-2deb4fa7b271)
+
+# 5. 기대효과
 ### 1) 시간 절약
  더 효율적인 방법으로 집안일을 수행할 수 있으며 검색 시간을 줄여 시간을 절약할 수 있다.
 ### 2) 공간 활용
@@ -21,7 +28,7 @@
 ### 3) 식사 및 식자재 관리 향상
  요리 방법, 식자재 활용법, 식자재 보관 등의 정보를 통해 효과적으로 식생활을 할 수 있으며 음식물 감소 효과를 기대할 수 있다.
 
-# 4. 확장
+# 6. 확장
 ### 1) 쇼핑 플랫폼
  집안일에 대한 지식 전달뿐 아니라 유용한 제품을 소개하여 쇼핑 플랫폼과 연계하여 상품 판매를 할 수 있다.
 ### 2) 생활 지식
